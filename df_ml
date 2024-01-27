@@ -1,0 +1,410 @@
+,Unnamed: 0,STATISTIC,Statistic Label,Year,UNIT,VALUE,Admission_Class
+0,0,HRA01C1,First Admissions (Number),1965,Number,6666.0,1
+1,1,HRA01C1,First Admissions (Number),1966,Number,6676.0,1
+2,2,HRA01C1,First Admissions (Number),1967,Number,6927.0,1
+3,3,HRA01C1,First Admissions (Number),1968,Number,7284.0,1
+4,4,HRA01C1,First Admissions (Number),1969,Number,7652.0,1
+5,5,HRA01C1,First Admissions (Number),1970,Number,7696.0,1
+6,6,HRA01C1,First Admissions (Number),1971,Number,8058.0,1
+7,7,HRA01C1,First Admissions (Number),1972,Number,8598.0,1
+8,8,HRA01C1,First Admissions (Number),1973,Number,9018.0,1
+9,9,HRA01C1,First Admissions (Number),1974,Number,8914.0,1
+10,10,HRA01C1,First Admissions (Number),1975,Number,8873.0,1
+11,11,HRA01C1,First Admissions (Number),1976,Number,8939.0,1
+12,12,HRA01C1,First Admissions (Number),1977,Number,8788.0,1
+13,13,HRA01C1,First Admissions (Number),1978,Number,8678.0,1
+14,14,HRA01C1,First Admissions (Number),1979,Number,8631.0,1
+15,15,HRA01C1,First Admissions (Number),1980,Number,8459.0,1
+16,16,HRA01C1,First Admissions (Number),1981,Number,8480.0,1
+17,17,HRA01C1,First Admissions (Number),1982,Number,8702.0,1
+18,18,HRA01C1,First Admissions (Number),1983,Number,8415.0,1
+19,19,HRA01C1,First Admissions (Number),1984,Number,8749.0,1
+20,20,HRA01C1,First Admissions (Number),1985,Number,8441.0,1
+21,21,HRA01C1,First Admissions (Number),1986,Number,8251.0,1
+22,22,HRA01C1,First Admissions (Number),1987,Number,7934.0,1
+23,23,HRA01C1,First Admissions (Number),1988,Number,8074.0,1
+24,24,HRA01C1,First Admissions (Number),1989,Number,7530.0,1
+25,25,HRA01C1,First Admissions (Number),1990,Number,7577.0,1
+26,26,HRA01C1,First Admissions (Number),1991,Number,7949.0,1
+27,27,HRA01C1,First Admissions (Number),1992,Number,7443.0,1
+28,28,HRA01C1,First Admissions (Number),1993,Number,7311.0,1
+29,29,HRA01C1,First Admissions (Number),1994,Number,7132.0,1
+30,30,HRA01C1,First Admissions (Number),1995,Number,7246.0,1
+31,31,HRA01C1,First Admissions (Number),1996,Number,7130.0,1
+32,32,HRA01C1,First Admissions (Number),1997,Number,6978.0,1
+33,33,HRA01C1,First Admissions (Number),1998,Number,7095.0,1
+34,34,HRA01C1,First Admissions (Number),1999,Number,7105.0,1
+35,35,HRA01C1,First Admissions (Number),2000,Number,7290.0,1
+36,36,HRA01C1,First Admissions (Number),2001,Number,7301.0,1
+37,37,HRA01C1,First Admissions (Number),2002,Number,7060.0,1
+38,38,HRA01C1,First Admissions (Number),2003,Number,6656.0,1
+39,39,HRA01C1,First Admissions (Number),2004,Number,6168.0,1
+40,40,HRA01C1,First Admissions (Number),2005,Number,5917.0,1
+41,41,HRA01C1,First Admissions (Number),2006,Number,5601.0,1
+42,42,HRA01C1,First Admissions (Number),2007,Number,5853.0,1
+43,43,HRA01C1,First Admissions (Number),2008,Number,6194.0,1
+44,44,HRA01C1,First Admissions (Number),2009,Number,5972.0,1
+45,45,HRA01C1,First Admissions (Number),2010,Number,6266.0,1
+46,46,HRA01C1,First Admissions (Number),2011,Number,6129.0,1
+47,47,HRA01C1,First Admissions (Number),2012,Number,6130.0,1
+48,48,HRA01C1,First Admissions (Number),2013,Number,6055.0,1
+49,49,HRA01C1,First Admissions (Number),2014,Number,5942.0,1
+50,50,HRA01C1,First Admissions (Number),2015,Number,6114.0,1
+51,51,HRA01C1,First Admissions (Number),2016,Number,6097.0,1
+52,52,HRA01C1,First Admissions (Number),2017,Number,5905.0,1
+53,53,HRA01C1,First Admissions (Number),2018,Number,6039.0,1
+54,54,HRA01C1,First Admissions (Number),2019,Number,5277.0,1
+55,55,HRA01C1,First Admissions (Number),2020,Number,5694.0,1
+56,56,HRA01C1,First Admissions (Number),2021,Number,5758.0,1
+57,57,HRA01C1,First Admissions (Number),2022,Number,5412.0,1
+58,58,HRA01C2,Re-Admissions (Number),1965,Number,9230.0,1
+59,59,HRA01C2,Re-Admissions (Number),1966,Number,9850.0,1
+60,60,HRA01C2,Re-Admissions (Number),1967,Number,10680.0,1
+61,61,HRA01C2,Re-Admissions (Number),1968,Number,11669.0,1
+62,62,HRA01C2,Re-Admissions (Number),1969,Number,12045.0,1
+63,63,HRA01C2,Re-Admissions (Number),1970,Number,12646.0,1
+64,64,HRA01C2,Re-Admissions (Number),1971,Number,13293.0,1
+65,65,HRA01C2,Re-Admissions (Number),1972,Number,14366.0,1
+66,66,HRA01C2,Re-Admissions (Number),1973,Number,15018.0,1
+67,67,HRA01C2,Re-Admissions (Number),1974,Number,16050.0,1
+68,68,HRA01C2,Re-Admissions (Number),1975,Number,17019.0,1
+69,69,HRA01C2,Re-Admissions (Number),1976,Number,17495.0,1
+70,70,HRA01C2,Re-Admissions (Number),1977,Number,17597.0,1
+71,71,HRA01C2,Re-Admissions (Number),1978,Number,18984.0,1
+72,72,HRA01C2,Re-Admissions (Number),1979,Number,18727.0,1
+73,73,HRA01C2,Re-Admissions (Number),1980,Number,18639.0,1
+74,74,HRA01C2,Re-Admissions (Number),1981,Number,20205.0,1
+75,75,HRA01C2,Re-Admissions (Number),1982,Number,20076.0,1
+76,76,HRA01C2,Re-Admissions (Number),1983,Number,19982.0,1
+77,77,HRA01C2,Re-Admissions (Number),1984,Number,20081.0,1
+78,78,HRA01C2,Re-Admissions (Number),1985,Number,20641.0,1
+79,79,HRA01C2,Re-Admissions (Number),1986,Number,21141.0,1
+80,80,HRA01C2,Re-Admissions (Number),1987,Number,19922.0,1
+81,81,HRA01C2,Re-Admissions (Number),1988,Number,20358.0,1
+82,82,HRA01C2,Re-Admissions (Number),1989,Number,19720.0,1
+83,83,HRA01C2,Re-Admissions (Number),1990,Number,20198.0,1
+84,84,HRA01C2,Re-Admissions (Number),1991,Number,19964.0,1
+85,85,HRA01C2,Re-Admissions (Number),1992,Number,19705.0,1
+86,86,HRA01C2,Re-Admissions (Number),1993,Number,19694.0,1
+87,87,HRA01C2,Re-Admissions (Number),1994,Number,19555.0,1
+88,88,HRA01C2,Re-Admissions (Number),1995,Number,19194.0,1
+89,89,HRA01C2,Re-Admissions (Number),1996,Number,19526.0,1
+90,90,HRA01C2,Re-Admissions (Number),1997,Number,19007.0,1
+91,91,HRA01C2,Re-Admissions (Number),1998,Number,18143.0,1
+92,92,HRA01C2,Re-Admissions (Number),1999,Number,17957.0,1
+93,93,HRA01C2,Re-Admissions (Number),2000,Number,16992.0,1
+94,94,HRA01C2,Re-Admissions (Number),2001,Number,17146.0,1
+95,95,HRA01C2,Re-Admissions (Number),2002,Number,16617.0,1
+96,96,HRA01C2,Re-Admissions (Number),2003,Number,16375.0,1
+97,97,HRA01C2,Re-Admissions (Number),2004,Number,16232.0,1
+98,98,HRA01C2,Re-Admissions (Number),2005,Number,15336.0,1
+99,99,HRA01C2,Re-Admissions (Number),2006,Number,14687.0,1
+100,100,HRA01C2,Re-Admissions (Number),2007,Number,14916.0,1
+101,101,HRA01C2,Re-Admissions (Number),2008,Number,14558.0,1
+102,102,HRA01C2,Re-Admissions (Number),2009,Number,14223.0,1
+103,103,HRA01C2,Re-Admissions (Number),2010,Number,13353.0,1
+104,104,HRA01C2,Re-Admissions (Number),2011,Number,12863.0,1
+105,105,HRA01C2,Re-Admissions (Number),2012,Number,12043.0,1
+106,106,HRA01C2,Re-Admissions (Number),2013,Number,12402.0,1
+107,107,HRA01C2,Re-Admissions (Number),2014,Number,11855.0,1
+108,108,HRA01C2,Re-Admissions (Number),2015,Number,11746.0,1
+109,109,HRA01C2,Re-Admissions (Number),2016,Number,11193.0,1
+110,110,HRA01C2,Re-Admissions (Number),2017,Number,10838.0,1
+111,111,HRA01C2,Re-Admissions (Number),2018,Number,10961.0,1
+112,112,HRA01C2,Re-Admissions (Number),2019,Number,10085.0,1
+113,113,HRA01C2,Re-Admissions (Number),2020,Number,9697.0,1
+114,114,HRA01C2,Re-Admissions (Number),2021,Number,9965.0,1
+115,115,HRA01C2,Re-Admissions (Number),2022,Number,10378.0,1
+116,116,HRA01C3,All Admissions (Number),1965,Number,15440.0,1
+117,117,HRA01C3,All Admissions (Number),1966,Number,16526.0,1
+118,118,HRA01C3,All Admissions (Number),1967,Number,17607.0,1
+119,119,HRA01C3,All Admissions (Number),1968,Number,18953.0,1
+120,120,HRA01C3,All Admissions (Number),1969,Number,19697.0,1
+121,121,HRA01C3,All Admissions (Number),1970,Number,20342.0,1
+122,122,HRA01C3,All Admissions (Number),1971,Number,21351.0,1
+123,123,HRA01C3,All Admissions (Number),1972,Number,22964.0,1
+124,124,HRA01C3,All Admissions (Number),1973,Number,24036.0,1
+125,125,HRA01C3,All Admissions (Number),1974,Number,24964.0,1
+126,126,HRA01C3,All Admissions (Number),1975,Number,25892.0,1
+127,127,HRA01C3,All Admissions (Number),1976,Number,26434.0,1
+128,128,HRA01C3,All Admissions (Number),1977,Number,26385.0,1
+129,129,HRA01C3,All Admissions (Number),1978,Number,27662.0,1
+130,130,HRA01C3,All Admissions (Number),1979,Number,27358.0,1
+131,131,HRA01C3,All Admissions (Number),1980,Number,27098.0,1
+132,132,HRA01C3,All Admissions (Number),1981,Number,28685.0,1
+133,133,HRA01C3,All Admissions (Number),1982,Number,28778.0,1
+134,134,HRA01C3,All Admissions (Number),1983,Number,28397.0,1
+135,135,HRA01C3,All Admissions (Number),1984,Number,28830.0,1
+136,136,HRA01C3,All Admissions (Number),1985,Number,29082.0,1
+137,137,HRA01C3,All Admissions (Number),1986,Number,29392.0,1
+138,138,HRA01C3,All Admissions (Number),1987,Number,27856.0,1
+139,139,HRA01C3,All Admissions (Number),1988,Number,28432.0,1
+140,140,HRA01C3,All Admissions (Number),1989,Number,27250.0,1
+141,141,HRA01C3,All Admissions (Number),1990,Number,27765.0,1
+142,142,HRA01C3,All Admissions (Number),1991,Number,27913.0,1
+143,143,HRA01C3,All Admissions (Number),1992,Number,27148.0,1
+144,144,HRA01C3,All Admissions (Number),1993,Number,27005.0,1
+145,145,HRA01C3,All Admissions (Number),1994,Number,26687.0,1
+146,146,HRA01C3,All Admissions (Number),1995,Number,26440.0,1
+147,147,HRA01C3,All Admissions (Number),1996,Number,26656.0,1
+148,148,HRA01C3,All Admissions (Number),1997,Number,25985.0,1
+149,149,HRA01C3,All Admissions (Number),1998,Number,25238.0,1
+150,150,HRA01C3,All Admissions (Number),1999,Number,25062.0,1
+151,151,HRA01C3,All Admissions (Number),2000,Number,24282.0,1
+152,152,HRA01C3,All Admissions (Number),2001,Number,24446.0,1
+153,153,HRA01C3,All Admissions (Number),2002,Number,23677.0,1
+154,154,HRA01C3,All Admissions (Number),2003,Number,23031.0,1
+155,155,HRA01C3,All Admissions (Number),2004,Number,22400.0,1
+156,156,HRA01C3,All Admissions (Number),2005,Number,21253.0,1
+157,157,HRA01C3,All Admissions (Number),2006,Number,20288.0,1
+158,158,HRA01C3,All Admissions (Number),2007,Number,20769.0,1
+159,159,HRA01C3,All Admissions (Number),2008,Number,20752.0,1
+160,160,HRA01C3,All Admissions (Number),2009,Number,20195.0,1
+161,161,HRA01C3,All Admissions (Number),2010,Number,19619.0,1
+162,162,HRA01C3,All Admissions (Number),2011,Number,18992.0,1
+163,163,HRA01C3,All Admissions (Number),2012,Number,18173.0,1
+164,164,HRA01C3,All Admissions (Number),2013,Number,18457.0,1
+165,165,HRA01C3,All Admissions (Number),2014,Number,17797.0,1
+166,166,HRA01C3,All Admissions (Number),2015,Number,17860.0,1
+167,167,HRA01C3,All Admissions (Number),2016,Number,17290.0,1
+168,168,HRA01C3,All Admissions (Number),2017,Number,16743.0,1
+169,169,HRA01C3,All Admissions (Number),2018,Number,17000.0,1
+170,170,HRA01C3,All Admissions (Number),2019,Number,16710.0,1
+171,171,HRA01C3,All Admissions (Number),2020,Number,15391.0,1
+172,172,HRA01C3,All Admissions (Number),2021,Number,15723.0,1
+173,173,HRA01C3,All Admissions (Number),2022,Number,15790.0,1
+174,174,HRA01C4,First Admissions as a % of All Admissions (Number),1965,Number,40.0,0
+175,175,HRA01C4,First Admissions as a % of All Admissions (Number),1966,Number,40.0,0
+176,176,HRA01C4,First Admissions as a % of All Admissions (Number),1967,Number,39.0,0
+177,177,HRA01C4,First Admissions as a % of All Admissions (Number),1968,Number,38.0,0
+178,178,HRA01C4,First Admissions as a % of All Admissions (Number),1969,Number,39.0,0
+179,179,HRA01C4,First Admissions as a % of All Admissions (Number),1970,Number,38.0,0
+180,180,HRA01C4,First Admissions as a % of All Admissions (Number),1971,Number,38.0,0
+181,181,HRA01C4,First Admissions as a % of All Admissions (Number),1972,Number,37.0,0
+182,182,HRA01C4,First Admissions as a % of All Admissions (Number),1973,Number,38.0,0
+183,183,HRA01C4,First Admissions as a % of All Admissions (Number),1974,Number,36.0,0
+184,184,HRA01C4,First Admissions as a % of All Admissions (Number),1975,Number,34.0,0
+185,185,HRA01C4,First Admissions as a % of All Admissions (Number),1976,Number,34.0,0
+186,186,HRA01C4,First Admissions as a % of All Admissions (Number),1977,Number,33.0,0
+187,187,HRA01C4,First Admissions as a % of All Admissions (Number),1978,Number,31.0,0
+188,188,HRA01C4,First Admissions as a % of All Admissions (Number),1979,Number,32.0,0
+189,189,HRA01C4,First Admissions as a % of All Admissions (Number),1980,Number,31.0,0
+190,190,HRA01C4,First Admissions as a % of All Admissions (Number),1981,Number,30.0,0
+191,191,HRA01C4,First Admissions as a % of All Admissions (Number),1982,Number,30.0,0
+192,192,HRA01C4,First Admissions as a % of All Admissions (Number),1983,Number,30.0,0
+193,193,HRA01C4,First Admissions as a % of All Admissions (Number),1984,Number,30.0,0
+194,194,HRA01C4,First Admissions as a % of All Admissions (Number),1985,Number,29.0,0
+195,195,HRA01C4,First Admissions as a % of All Admissions (Number),1986,Number,28.0,0
+196,196,HRA01C4,First Admissions as a % of All Admissions (Number),1987,Number,28.0,0
+197,197,HRA01C4,First Admissions as a % of All Admissions (Number),1988,Number,28.0,0
+198,198,HRA01C4,First Admissions as a % of All Admissions (Number),1989,Number,28.0,0
+199,199,HRA01C4,First Admissions as a % of All Admissions (Number),1990,Number,27.0,0
+200,200,HRA01C4,First Admissions as a % of All Admissions (Number),1991,Number,28.0,0
+201,201,HRA01C4,First Admissions as a % of All Admissions (Number),1992,Number,27.0,0
+202,202,HRA01C4,First Admissions as a % of All Admissions (Number),1993,Number,27.0,0
+203,203,HRA01C4,First Admissions as a % of All Admissions (Number),1994,Number,27.0,0
+204,204,HRA01C4,First Admissions as a % of All Admissions (Number),1995,Number,27.0,0
+205,205,HRA01C4,First Admissions as a % of All Admissions (Number),1996,Number,27.0,0
+206,206,HRA01C4,First Admissions as a % of All Admissions (Number),1997,Number,27.0,0
+207,207,HRA01C4,First Admissions as a % of All Admissions (Number),1998,Number,28.0,0
+208,208,HRA01C4,First Admissions as a % of All Admissions (Number),1999,Number,28.0,0
+209,209,HRA01C4,First Admissions as a % of All Admissions (Number),2000,Number,30.0,0
+210,210,HRA01C4,First Admissions as a % of All Admissions (Number),2001,Number,30.0,0
+211,211,HRA01C4,First Admissions as a % of All Admissions (Number),2002,Number,30.0,0
+212,212,HRA01C4,First Admissions as a % of All Admissions (Number),2003,Number,29.0,0
+213,213,HRA01C4,First Admissions as a % of All Admissions (Number),2004,Number,28.0,0
+214,214,HRA01C4,First Admissions as a % of All Admissions (Number),2005,Number,28.0,0
+215,215,HRA01C4,First Admissions as a % of All Admissions (Number),2006,Number,28.0,0
+216,216,HRA01C4,First Admissions as a % of All Admissions (Number),2007,Number,28.0,0
+217,217,HRA01C4,First Admissions as a % of All Admissions (Number),2008,Number,30.0,0
+218,218,HRA01C4,First Admissions as a % of All Admissions (Number),2009,Number,30.0,0
+219,219,HRA01C4,First Admissions as a % of All Admissions (Number),2010,Number,32.0,0
+220,220,HRA01C4,First Admissions as a % of All Admissions (Number),2011,Number,32.0,0
+221,221,HRA01C4,First Admissions as a % of All Admissions (Number),2012,Number,34.0,0
+222,222,HRA01C4,First Admissions as a % of All Admissions (Number),2013,Number,33.0,0
+223,223,HRA01C4,First Admissions as a % of All Admissions (Number),2014,Number,33.0,0
+224,224,HRA01C4,First Admissions as a % of All Admissions (Number),2015,Number,34.0,0
+225,225,HRA01C4,First Admissions as a % of All Admissions (Number),2016,Number,35.0,0
+226,226,HRA01C4,First Admissions as a % of All Admissions (Number),2017,Number,35.0,0
+227,227,HRA01C4,First Admissions as a % of All Admissions (Number),2018,Number,36.0,0
+228,228,HRA01C4,First Admissions as a % of All Admissions (Number),2019,Number,32.0,0
+229,229,HRA01C4,First Admissions as a % of All Admissions (Number),2020,Number,37.0,0
+230,230,HRA01C4,First Admissions as a % of All Admissions (Number),2021,Number,37.0,0
+231,231,HRA01C4,First Admissions as a % of All Admissions (Number),2022,Number,34.0,0
+232,232,HRA01C5,Re-Admissions as a % of All Admissions (Number),1965,Number,60.0,0
+233,233,HRA01C5,Re-Admissions as a % of All Admissions (Number),1966,Number,60.0,0
+234,234,HRA01C5,Re-Admissions as a % of All Admissions (Number),1967,Number,61.0,0
+235,235,HRA01C5,Re-Admissions as a % of All Admissions (Number),1968,Number,62.0,0
+236,236,HRA01C5,Re-Admissions as a % of All Admissions (Number),1969,Number,61.0,0
+237,237,HRA01C5,Re-Admissions as a % of All Admissions (Number),1970,Number,62.0,0
+238,238,HRA01C5,Re-Admissions as a % of All Admissions (Number),1971,Number,62.0,0
+239,239,HRA01C5,Re-Admissions as a % of All Admissions (Number),1972,Number,63.0,0
+240,240,HRA01C5,Re-Admissions as a % of All Admissions (Number),1973,Number,63.0,0
+241,241,HRA01C5,Re-Admissions as a % of All Admissions (Number),1974,Number,64.0,0
+242,242,HRA01C5,Re-Admissions as a % of All Admissions (Number),1975,Number,66.0,0
+243,243,HRA01C5,Re-Admissions as a % of All Admissions (Number),1976,Number,66.0,0
+244,244,HRA01C5,Re-Admissions as a % of All Admissions (Number),1977,Number,67.0,0
+245,245,HRA01C5,Re-Admissions as a % of All Admissions (Number),1978,Number,69.0,0
+246,246,HRA01C5,Re-Admissions as a % of All Admissions (Number),1979,Number,69.0,0
+247,247,HRA01C5,Re-Admissions as a % of All Admissions (Number),1980,Number,69.0,0
+248,248,HRA01C5,Re-Admissions as a % of All Admissions (Number),1981,Number,70.0,0
+249,249,HRA01C5,Re-Admissions as a % of All Admissions (Number),1982,Number,70.0,0
+250,250,HRA01C5,Re-Admissions as a % of All Admissions (Number),1983,Number,70.0,0
+251,251,HRA01C5,Re-Admissions as a % of All Admissions (Number),1984,Number,70.0,0
+252,252,HRA01C5,Re-Admissions as a % of All Admissions (Number),1985,Number,71.0,0
+253,253,HRA01C5,Re-Admissions as a % of All Admissions (Number),1986,Number,72.0,0
+254,254,HRA01C5,Re-Admissions as a % of All Admissions (Number),1987,Number,72.0,0
+255,255,HRA01C5,Re-Admissions as a % of All Admissions (Number),1988,Number,72.0,0
+256,256,HRA01C5,Re-Admissions as a % of All Admissions (Number),1989,Number,72.0,0
+257,257,HRA01C5,Re-Admissions as a % of All Admissions (Number),1990,Number,73.0,0
+258,258,HRA01C5,Re-Admissions as a % of All Admissions (Number),1991,Number,72.0,0
+259,259,HRA01C5,Re-Admissions as a % of All Admissions (Number),1992,Number,73.0,0
+260,260,HRA01C5,Re-Admissions as a % of All Admissions (Number),1993,Number,73.0,0
+261,261,HRA01C5,Re-Admissions as a % of All Admissions (Number),1994,Number,73.0,0
+262,262,HRA01C5,Re-Admissions as a % of All Admissions (Number),1995,Number,73.0,0
+263,263,HRA01C5,Re-Admissions as a % of All Admissions (Number),1996,Number,73.0,0
+264,264,HRA01C5,Re-Admissions as a % of All Admissions (Number),1997,Number,73.0,0
+265,265,HRA01C5,Re-Admissions as a % of All Admissions (Number),1998,Number,72.0,0
+266,266,HRA01C5,Re-Admissions as a % of All Admissions (Number),1999,Number,72.0,0
+267,267,HRA01C5,Re-Admissions as a % of All Admissions (Number),2000,Number,70.0,0
+268,268,HRA01C5,Re-Admissions as a % of All Admissions (Number),2001,Number,70.0,0
+269,269,HRA01C5,Re-Admissions as a % of All Admissions (Number),2002,Number,70.0,0
+270,270,HRA01C5,Re-Admissions as a % of All Admissions (Number),2003,Number,71.0,0
+271,271,HRA01C5,Re-Admissions as a % of All Admissions (Number),2004,Number,73.0,0
+272,272,HRA01C5,Re-Admissions as a % of All Admissions (Number),2005,Number,72.0,0
+273,273,HRA01C5,Re-Admissions as a % of All Admissions (Number),2006,Number,72.0,0
+274,274,HRA01C5,Re-Admissions as a % of All Admissions (Number),2007,Number,72.0,0
+275,275,HRA01C5,Re-Admissions as a % of All Admissions (Number),2008,Number,70.0,0
+276,276,HRA01C5,Re-Admissions as a % of All Admissions (Number),2009,Number,70.0,0
+277,277,HRA01C5,Re-Admissions as a % of All Admissions (Number),2010,Number,68.0,0
+278,278,HRA01C5,Re-Admissions as a % of All Admissions (Number),2011,Number,68.0,0
+279,279,HRA01C5,Re-Admissions as a % of All Admissions (Number),2012,Number,66.0,0
+280,280,HRA01C5,Re-Admissions as a % of All Admissions (Number),2013,Number,67.0,0
+281,281,HRA01C5,Re-Admissions as a % of All Admissions (Number),2014,Number,67.0,0
+282,282,HRA01C5,Re-Admissions as a % of All Admissions (Number),2015,Number,66.0,0
+283,283,HRA01C5,Re-Admissions as a % of All Admissions (Number),2016,Number,65.0,0
+284,284,HRA01C5,Re-Admissions as a % of All Admissions (Number),2017,Number,65.0,0
+285,285,HRA01C5,Re-Admissions as a % of All Admissions (Number),2018,Number,65.0,0
+286,286,HRA01C5,Re-Admissions as a % of All Admissions (Number),2019,Number,60.0,0
+287,287,HRA01C5,Re-Admissions as a % of All Admissions (Number),2020,Number,63.0,0
+288,288,HRA01C5,Re-Admissions as a % of All Admissions (Number),2021,Number,63.0,0
+289,289,HRA01C5,Re-Admissions as a % of All Admissions (Number),2022,Number,66.0,0
+290,290,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1965,"Rate per 100,000 Pop.",215.0,0
+291,291,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1966,"Rate per 100,000 Pop.",232.0,0
+292,292,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1967,"Rate per 100,000 Pop.",240.0,0
+293,293,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1968,"Rate per 100,000 Pop.",252.0,0
+294,294,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1969,"Rate per 100,000 Pop.",263.0,0
+295,295,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1970,"Rate per 100,000 Pop.",267.0,0
+296,296,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1971,"Rate per 100,000 Pop.",279.4,0
+297,297,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1972,"Rate per 100,000 Pop.",298.1,0
+298,298,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1973,"Rate per 100,000 Pop.",312.6,0
+299,299,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1974,"Rate per 100,000 Pop.",299.3,0
+300,300,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1975,"Rate per 100,000 Pop.",297.9,0
+301,301,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1976,"Rate per 100,000 Pop.",300.1,0
+302,302,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1977,"Rate per 100,000 Pop.",295.0,0
+303,303,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1978,"Rate per 100,000 Pop.",291.3,0
+304,304,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1979,"Rate per 100,000 Pop.",256.2,0
+305,305,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1980,"Rate per 100,000 Pop.",251.1,0
+306,306,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1981,"Rate per 100,000 Pop.",251.7,0
+307,307,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1982,"Rate per 100,000 Pop.",258.3,0
+308,308,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1983,"Rate per 100,000 Pop.",244.3,0
+309,309,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1984,"Rate per 100,000 Pop.",254.0,0
+310,310,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1985,"Rate per 100,000 Pop.",245.1,0
+311,311,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1986,"Rate per 100,000 Pop.",239.6,0
+312,312,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1987,"Rate per 100,000 Pop.",230.4,0
+313,313,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1988,"Rate per 100,000 Pop.",234.4,0
+314,314,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1989,"Rate per 100,000 Pop.",212.7,0
+315,315,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1990,"Rate per 100,000 Pop.",214.0,0
+316,316,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1991,"Rate per 100,000 Pop.",224.5,0
+317,317,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1992,"Rate per 100,000 Pop.",210.2,0
+318,318,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1993,"Rate per 100,000 Pop.",206.5,0
+319,319,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1994,"Rate per 100,000 Pop.",201.4,0
+320,320,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1995,"Rate per 100,000 Pop.",205.5,0
+321,321,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1996,"Rate per 100,000 Pop.",202.2,0
+322,322,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1997,"Rate per 100,000 Pop.",192.4,0
+323,323,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1998,"Rate per 100,000 Pop.",195.7,0
+324,324,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",1999,"Rate per 100,000 Pop.",195.9,0
+325,325,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2000,"Rate per 100,000 Pop.",201.0,0
+326,326,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2001,"Rate per 100,000 Pop.",201.3,0
+327,327,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2002,"Rate per 100,000 Pop.",194.7,0
+328,328,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2003,"Rate per 100,000 Pop.",169.9,0
+329,329,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2004,"Rate per 100,000 Pop.",157.5,0
+330,330,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2005,"Rate per 100,000 Pop.",151.1,0
+331,331,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2006,"Rate per 100,000 Pop.",132.1,0
+332,332,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2007,"Rate per 100,000 Pop.",138.0,0
+333,333,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2008,"Rate per 100,000 Pop.",146.1,0
+334,334,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2009,"Rate per 100,000 Pop.",140.9,0
+335,335,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2010,"Rate per 100,000 Pop.",147.8,0
+336,336,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2011,"Rate per 100,000 Pop.",133.6,0
+337,337,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2012,"Rate per 100,000 Pop.",133.6,0
+338,338,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2013,"Rate per 100,000 Pop.",132.0,0
+339,339,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2014,"Rate per 100,000 Pop.",129.5,0
+340,340,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2015,"Rate per 100,000 Pop.",133.3,0
+341,341,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2016,"Rate per 100,000 Pop.",132.9,0
+342,342,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2017,"Rate per 100,000 Pop.",124.0,0
+343,343,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2018,"Rate per 100,000 Pop.",126.8,0
+344,344,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2019,"Rate per 100,000 Pop.",110.8,0
+345,345,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2020,"Rate per 100,000 Pop.",119.6,0
+346,346,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2021,"Rate per 100,000 Pop.",120.9,0
+347,347,HRA01C6,"First Admissions (Rate per 100,000 Pop.)",2022,"Rate per 100,000 Pop.",113.7,0
+348,403,HRA01C7,"Re-Admissions (Rate per 100,000 Pop.)",2020,"Rate per 100,000 Pop.",203.6,0
+349,404,HRA01C7,"Re-Admissions (Rate per 100,000 Pop.)",2021,"Rate per 100,000 Pop.",209.3,0
+350,405,HRA01C7,"Re-Admissions (Rate per 100,000 Pop.)",2022,"Rate per 100,000 Pop.",217.9,0
+351,406,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1965,"Rate per 100,000 Pop.",535.0,0
+352,407,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1966,"Rate per 100,000 Pop.",573.0,0
+353,408,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1967,"Rate per 100,000 Pop.",611.0,0
+354,409,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1968,"Rate per 100,000 Pop.",657.0,0
+355,410,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1969,"Rate per 100,000 Pop.",683.0,0
+356,411,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1970,"Rate per 100,000 Pop.",705.0,1
+357,412,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1971,"Rate per 100,000 Pop.",740.3,1
+358,413,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1972,"Rate per 100,000 Pop.",796.2,1
+359,414,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1973,"Rate per 100,000 Pop.",833.4,1
+360,415,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1974,"Rate per 100,000 Pop.",838.2,1
+361,416,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1975,"Rate per 100,000 Pop.",869.3,1
+362,417,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1976,"Rate per 100,000 Pop.",887.5,1
+363,418,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1977,"Rate per 100,000 Pop.",885.9,1
+364,419,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1978,"Rate per 100,000 Pop.",928.8,1
+365,420,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1979,"Rate per 100,000 Pop.",812.1,1
+366,421,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1980,"Rate per 100,000 Pop.",804.4,1
+367,422,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1981,"Rate per 100,000 Pop.",851.5,1
+368,423,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1982,"Rate per 100,000 Pop.",854.3,1
+369,424,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1983,"Rate per 100,000 Pop.",824.6,1
+370,425,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1984,"Rate per 100,000 Pop.",837.2,1
+371,426,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1985,"Rate per 100,000 Pop.",844.5,1
+372,427,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1986,"Rate per 100,000 Pop.",853.5,1
+373,428,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1987,"Rate per 100,000 Pop.",809.0,1
+374,429,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1988,"Rate per 100,000 Pop.",825.6,1
+375,430,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1989,"Rate per 100,000 Pop.",769.6,1
+376,431,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1990,"Rate per 100,000 Pop.",784.2,1
+377,432,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1991,"Rate per 100,000 Pop.",788.4,1
+378,433,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1992,"Rate per 100,000 Pop.",766.8,1
+379,434,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1993,"Rate per 100,000 Pop.",762.7,1
+380,435,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1994,"Rate per 100,000 Pop.",753.7,1
+381,436,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1995,"Rate per 100,000 Pop.",749.9,1
+382,437,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1996,"Rate per 100,000 Pop.",756.0,1
+383,438,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1997,"Rate per 100,000 Pop.",716.6,1
+384,439,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1998,"Rate per 100,000 Pop.",696.0,1
+385,440,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",1999,"Rate per 100,000 Pop.",691.2,1
+386,441,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2000,"Rate per 100,000 Pop.",669.6,0
+387,442,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2001,"Rate per 100,000 Pop.",674.2,0
+388,443,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2002,"Rate per 100,000 Pop.",653.0,0
+389,444,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2003,"Rate per 100,000 Pop.",587.9,0
+390,445,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2004,"Rate per 100,000 Pop.",571.8,0
+391,446,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2005,"Rate per 100,000 Pop.",542.6,0
+392,447,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2006,"Rate per 100,000 Pop.",478.5,0
+393,448,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2007,"Rate per 100,000 Pop.",489.9,0
+394,449,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2008,"Rate per 100,000 Pop.",489.5,0
+395,450,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2009,"Rate per 100,000 Pop.",476.3,0
+396,451,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2010,"Rate per 100,000 Pop.",462.7,0
+397,452,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2011,"Rate per 100,000 Pop.",413.9,0
+398,453,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2012,"Rate per 100,000 Pop.",396.1,0
+399,454,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2013,"Rate per 100,000 Pop.",402.3,0
+400,455,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2014,"Rate per 100,000 Pop.",387.9,0
+401,456,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2015,"Rate per 100,000 Pop.",389.3,0
+402,457,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2016,"Rate per 100,000 Pop.",376.8,0
+403,458,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2017,"Rate per 100,000 Pop.",351.6,0
+404,459,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2018,"Rate per 100,000 Pop.",357.0,0
+405,460,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2019,"Rate per 100,000 Pop.",350.9,0
+406,461,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2020,"Rate per 100,000 Pop.",323.2,0
+407,462,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2021,"Rate per 100,000 Pop.",330.2,0
+408,463,HRA01C8,"All Admissions (Rate per 100,000 Pop.)",2022,"Rate per 100,000 Pop.",331.6,0
